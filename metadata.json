@@ -1,0 +1,6 @@
+{
+  "name": "ClothCity - Kerala Trending Fashion",
+  "description": "ClothCity is Kerala's premier trending fashion e-commerce destination, featuring oversized streetwear, everyday essentials, Gen-Z fits, and curated Kerala collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
